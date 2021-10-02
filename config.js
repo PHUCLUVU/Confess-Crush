@@ -10,7 +10,7 @@ const CONFIG = {
     desc: ' chắc là do tui đẹp traiiiiiiii ',
     btnYes: 'Quá đúng lunnnn <33',
     btnNo: 'Không nha :3',
-    question: ' Sao tui khó ở vậy mà bạn vẫn chịu ở lại vậy?',
+    question: '  đùa xíuuu, giờ trả lời thật lòng i nè',
     btnReply: 'Gửi cho bạn <3',
     reply: ':)) nè nè tui biết bà định ghi gì đóoo',
     mess: 'Đùa hoiii 🥰. Ai biết gì âu trừi ưiii😘😘',
