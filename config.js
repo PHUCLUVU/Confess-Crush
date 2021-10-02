@@ -1,9 +1,9 @@
 const CONFIG = {
     titleWeb: "Đừng có mà cười á",
-    introTitle: ' LÊ THẢO MIE:>>>',
+    introTitle: ' Thảo My So Yummy :>>>',
     introDesc: `Trái đất vốn lạ thường
     Mà sao bà cứ đi nhầm đường
-    Lạc vào mess tui lẻ loi
+    Lạc vào mess tui xong 
     Cái dính tới giờ lun nè`,
     btnIntro: ':3 ẤN DÔ ĐÂY NÈ',
     title: ' Ấn tượng đầu tiên của bà về tui là gì dạ? 🥰',
