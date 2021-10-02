@@ -11,7 +11,7 @@ const CONFIG = {
     btnYes: 'Quá đúng lunnnn <33',
     btnNo: 'Không nha :3',
     question: '  đùa xíuuu, giờ trả lời thật lòng i nè',
-    btnReply: 'Gửi cho bạn <3',
+    btnReply: 'Gửi xong là khum có quay đầu được đâu á',
     reply: ':)) nè nè tui biết bà định ghi gì đóoo',
     mess: 'Đùa hoiii 🥰. Ai biết gì âu trừi ưiii😘😘',
     messDesc: 'DÔ ĐÂY MÌNH SET KÈO ĐI CHƠI NHAAAA.',
