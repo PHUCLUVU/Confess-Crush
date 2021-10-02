@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Đừng có mà cười á",
-    introTitle: ' Thảo My So Yummy :>>>',
+    introTitle: ' Hello Thảo My So Yummy :>>>',
     introDesc: `Trái đất vốn lạ thường
     Mà sao bà cứ đi nhầm đường
     Lạc vào mess tui xong 
